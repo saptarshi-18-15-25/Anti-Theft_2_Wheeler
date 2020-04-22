@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ULTRON</string>
+
+    <string name="show_the_map">Show the map</string>
+
+    <string name="show_me_the_location">Show Me the Location</string>
+
+    <string name="engine_off">Engine off</string>
+
+    <string name="engine_on">Engine On</string>
+
+    <string name="parking_mode">Parking Mode</string>
+
+    <string name="alarmu">Alarm</string>
+
+    <string name="alarm">Alarm</string>
+</resources>
